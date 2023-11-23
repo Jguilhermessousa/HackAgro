@@ -1,4 +1,4 @@
-projeto em Flutter desenvolvido pela equipe HackAgro para o EXPOLOG HACK.
+Projeto em Flutter desenvolvido pela equipe HackAgro para o EXPOLOG HACK.
 
 Um novo projeto Flutter.
 
